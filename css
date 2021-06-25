@@ -1,0 +1,40 @@
+h1, h2, h3, h4, h5, h6, p, a {
+    font-weight: 300;
+    color: ivory;
+}
+
+
+.wrapper {
+    width: 95%;
+    margin: auto;
+}
+
+.main-header {
+    padding: 96px 64px 48px;
+    text-align: center;
+}
+
+.main-header {
+    body { background-image: url(background.jpg); color: white; }.
+}
+   
+.fa-map-marked-alt{
+    color: ivory;
+}
+
+
+.main-header {
+    background-image: url(https://image.freepik.com/fotos-gratis/estrelas-e-galaxia-espaco-sideral-ceu-noite-universo-preto_146539-811.jpg);
+}
+
+h1 {
+    text-shadow: 0 0 3px white, 0 0 5px white;
+  }
+
+  img {
+    opacity: 0.5;
+  }
+  
+  img:hover {
+    opacity: 1.0;
+  }
